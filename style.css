@@ -52,3 +52,16 @@
     gap: 50px;
 }
 
+.track{
+    text-align: center;
+    padding: 5%;
+}
+
+.quick{
+  display: flex;
+}
+
+.quick img{
+    width: 80%;
+    height: auto;
+}
