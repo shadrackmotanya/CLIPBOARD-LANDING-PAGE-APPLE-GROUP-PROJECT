@@ -115,9 +115,14 @@ h {
     font-size: larger;
 }
 
+<<<<<<< HEAD
+.quick{
+  /* display: flex; */
+=======
 .search{
   display: flex;
   padding-top: 12px;
+>>>>>>> 426538ba5db4f9f1cdbf0da0f35a8f9410946893
 }
 
 .search img{
