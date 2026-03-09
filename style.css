@@ -132,3 +132,14 @@ h {
 .device {
     text-align: center;
 }
+
+.divs {
+    display: flex;
+    gap: 70px;
+    text-align: center;
+    margin-left: 200px;
+.web {
+    display: flex;
+    gap: 60px;
+    margin-left: 200px;
+
