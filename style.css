@@ -100,11 +100,12 @@ h {
     padding: 50px;
 }
 .soc {
-    justify-content: space-between;
-    align-items: center;
-    margin-left: 400px;
     display: flex;
-    gap: 50px;
+    text-align: flex-end;
+    margin-left: 500px;
+    align-items: center;
+    gap: 40px;
+
 }
 
 .track{
